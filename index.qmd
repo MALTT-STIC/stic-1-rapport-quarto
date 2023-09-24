@@ -1,0 +1,56 @@
+---
+title: "Rapport exercice X de STIC I"
+subtitle: "Document d'accompagnement du dispositif ..."
+lang: fr
+date: last-modified
+author:
+  name: Prénom Nom
+  # orcid: 0000-0002-1825-0097
+  url: https://tecfaetu.unige.ch/perso/LOGIN-COURT
+
+format:
+  html:
+    theme: yeti # Voir https://quarto.org/docs/output-formats/html-themes.html pour les options
+    # css: style.css 
+    fontsize: 1.2rem
+    linestretch: 1.4
+    toc: true
+    toc-location: left
+    number-sections: true
+    title-block-banner: true
+    smooth-scroll: true
+    anchor-sections: false
+    link-external-icon: true
+    embed-resources: true
+---
+
+## Liens
+
+Le dispositif se compose des éléments suivants :
+
+-   [Label](./path/to/page)
+-   [Label](https://link.to/absolute)
+
+## Objectifs
+
+Ce dispositif s'adresse à des étudiant-es de première année en bachelor de psychologie et vise les introduire à la notion de ... Le dispositif peut être utilisé en tant que ...
+
+## Design
+
+Le dispositif se compose d'un seul écran dans lequel figurent tous les éléments interactifs. Après un texte introductif qui décrit brièvement le dispositif, l'utilisateur regarde le schéma du modèle de X. Ce modèle est rendu interactif à l'aide de message *pop-up* qui apparaissent lorsque l'utilisateur passe la souris sur les labels du modèle.
+
+## Production
+
+Pour la création du dispositif, j'ai interviewé une enseignante du primaire afin de connaitre ses besoins spécifiques... Le code du dispositif est documenté ainsi qu'il soit possible de changer les images du slideshow...
+
+## Auto-évaluation
+
+Bien que fonctionnel, le dispositif pour l'instant manque de ... Une version ultérieur du dispositif devrait permettre de ...
+
+## Bibliographie
+
+Si vous utilisez des références, citez-les idéalement en normes APA. Si vous avez Zotero installé, vous pouvez utiliser l'éditeur viseul et choisir `Insert > Citation`
+
+## Ressources
+
+Listez les éléments principaux qui vous ont inspirés. Les ressources EduTechWiki sont considérées de manière implicite, pas besoin de les citer.
